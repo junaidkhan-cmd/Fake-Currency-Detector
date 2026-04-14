@@ -1,2 +1,3 @@
 # Fake-Currency-Detector
 A full-stack AI project that detects fake currency notes using a Python backend and Vite-based frontend with machine learning.
+The dataset of fake and real currency notes is collected from Kaggle and contains images of both real and fake Pakistani currency notes, used for training and testing machine learning models for fake currency detection, image classification, and computer vision tasks, typically organized into train and test folders with real and fake subfolders, and can be used with frameworks like TensorFlow, Keras, and PyTorch for building AI-based fraud detection systems.
